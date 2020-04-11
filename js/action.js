@@ -13,4 +13,4 @@ const dataPath = path.join(
 );
 const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "timeseries.json");
 
-update(dataPath, outputPath);
+update.execute(dataPath, outputPath);

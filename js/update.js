@@ -65,5 +65,5 @@ function updateData(dataPath, outputPath) {
 }
 
 module.exports = {
-	update: updateData
+	execute: updateData
 }
