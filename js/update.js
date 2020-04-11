@@ -61,6 +61,7 @@ function updateData(dataPath, outputPath) {
 			};
 		});
 	});
+	results.lastRefreshed = new Date();
 	fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
 }
 
