@@ -1,0 +1,13 @@
+{
+  "name": "covid19-us-states",
+  "version": "1.0.0",
+  "description": "COVID-19 cases of US States from JHU CSSE in JSON format",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshaya Jeevan",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.8.8"
+  }
+}
