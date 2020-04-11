@@ -1,4 +1,4 @@
-name: "Extract Time Series"
+name: "Create JSON Time Series"
 runs:
   using: "node12"
   main: "js/action.js"
