@@ -19,7 +19,7 @@ function extractData(path, opt) {
 
 	const formatDates = dates.map(date => {
 		const [month, day] = date.split("/");
-		return `${day}-${month}-2020`;
+		return `2020-${month}-${day}`;
 	});
 
 	if(opt === 'D') {
