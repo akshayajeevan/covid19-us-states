@@ -2527,7 +2527,7 @@
     },
     {
       "date": "2020-4-14",
-      "confirmed": 7946,
+      "confirmed": 7950,
       "deaths": 327
     }
   ],
@@ -8857,8 +8857,8 @@
     },
     {
       "date": "2020-4-14",
-      "confirmed": 6999,
-      "deaths": 227
+      "confirmed": 9472,
+      "deaths": 302
     }
   ],
   "Massachusetts": [
@@ -13867,17 +13867,17 @@
     {
       "date": "2020-4-3",
       "confirmed": 102987,
-      "deaths": 3594
+      "deaths": 3262
     },
     {
       "date": "2020-4-4",
       "confirmed": 113833,
-      "deaths": 4290
+      "deaths": 3544
     },
     {
       "date": "2020-4-5",
       "confirmed": 123160,
-      "deaths": 4951
+      "deaths": 4029
     },
     {
       "date": "2020-4-6",
@@ -21521,5 +21521,5 @@
       "deaths": 1
     }
   ],
-  "lastRefreshed": "2020-04-15T00:32:56.040Z"
+  "lastRefreshed": "2020-04-15T10:19:09.510Z"
 }
