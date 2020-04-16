@@ -9802,17 +9802,17 @@
     {
       "date": "2020-4-12",
       "confirmed": 24244,
-      "deaths": 1487
+      "deaths": 1479
     },
     {
       "date": "2020-4-13",
       "confirmed": 25635,
-      "deaths": 1603
+      "deaths": 1602
     },
     {
       "date": "2020-4-14",
       "confirmed": 27001,
-      "deaths": 1759
+      "deaths": 1768
     },
     {
       "date": "2020-4-15",
@@ -21776,5 +21776,5 @@
       "deaths": 1
     }
   ],
-  "lastRefreshed": "2020-04-16T00:33:09.479Z"
+  "lastRefreshed": "2020-04-16T02:33:05.249Z"
 }
