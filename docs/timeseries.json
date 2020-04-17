@@ -2131,32 +2131,32 @@
     {
       "date": "2020-4-11",
       "confirmed": 21706,
-      "deaths": 605
+      "deaths": 604
     },
     {
       "date": "2020-4-12",
       "confirmed": 22795,
-      "deaths": 641
+      "deaths": 640
     },
     {
       "date": "2020-4-13",
       "confirmed": 23931,
-      "deaths": 715
+      "deaths": 714
     },
     {
       "date": "2020-4-14",
       "confirmed": 25356,
-      "deaths": 768
+      "deaths": 767
     },
     {
       "date": "2020-4-15",
       "confirmed": 26686,
-      "deaths": 861
+      "deaths": 860
     },
     {
       "date": "2020-4-16",
       "confirmed": 27677,
-      "deaths": 957
+      "deaths": 956
     }
   ],
   "Colorado": [
@@ -22031,5 +22031,5 @@
       "deaths": 2
     }
   ],
-  "lastRefreshed": "2020-04-17T02:32:55.558Z"
+  "lastRefreshed": "2020-04-17T12:33:01.460Z"
 }
