@@ -6063,8 +6063,8 @@
     },
     {
       "date": "2020-4-7",
-      "confirmed": 12271,
-      "deaths": 308
+      "confirmed": 13553,
+      "deaths": 380
     },
     {
       "date": "2020-4-8",
@@ -6073,8 +6073,8 @@
     },
     {
       "date": "2020-4-9",
-      "confirmed": 15079,
-      "deaths": 462
+      "confirmed": 16422,
+      "deaths": 528
     },
     {
       "date": "2020-4-10",
@@ -22286,5 +22286,5 @@
       "deaths": 2
     }
   ],
-  "lastRefreshed": "2020-04-18T12:33:04.113Z"
+  "lastRefreshed": "2020-04-19T00:33:07.968Z"
 }
