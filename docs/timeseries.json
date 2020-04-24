@@ -22166,13 +22166,13 @@
     },
     {
       "date": "2020-4-21",
-      "confirmed": 12563,
+      "confirmed": 12392,
       "deaths": 664
     },
     {
       "date": "2020-4-22",
-      "confirmed": 12051,
-      "deaths": 647
+      "confirmed": 12596,
+      "deaths": 686
     }
   ],
   "West Virginia": [
@@ -23561,5 +23561,5 @@
       "deaths": 6
     }
   ],
-  "lastRefreshed": "2020-04-23T12:32:57.831Z"
+  "lastRefreshed": "2020-04-24T00:33:02.283Z"
 }
