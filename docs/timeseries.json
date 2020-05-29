@@ -3156,32 +3156,32 @@
     {
       "date": "2020-5-22",
       "confirmed": 90252,
-      "deaths": 3666
+      "deaths": 3665
     },
     {
       "date": "2020-5-23",
       "confirmed": 92539,
-      "deaths": 3738
+      "deaths": 3737
     },
     {
       "date": "2020-5-24",
       "confirmed": 94020,
-      "deaths": 3754
+      "deaths": 3753
     },
     {
       "date": "2020-5-25",
       "confirmed": 96400,
-      "deaths": 3769
+      "deaths": 3768
     },
     {
       "date": "2020-5-26",
       "confirmed": 99387,
-      "deaths": 3819
+      "deaths": 3818
     },
     {
       "date": "2020-5-27",
       "confirmed": 101050,
-      "deaths": 3895
+      "deaths": 3894
     }
   ],
   "Colorado": [
@@ -32486,5 +32486,5 @@
       "deaths": 14
     }
   ],
-  "lastRefreshed": "2020-05-28T12:33:19.129Z"
+  "lastRefreshed": "2020-05-29T00:32:55.491Z"
 }
