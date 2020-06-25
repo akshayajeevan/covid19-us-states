@@ -29316,13 +29316,13 @@
     },
     {
       "date": "2020-6-20",
-      "confirmed": 6572,
-      "deaths": 188
+      "confirmed": 6750,
+      "deaths": 189
     },
     {
       "date": "2020-6-21",
-      "confirmed": 6572,
-      "deaths": 188
+      "confirmed": 6937,
+      "deaths": 190
     },
     {
       "date": "2020-6-22",
@@ -39371,5 +39371,5 @@
       "deaths": 20
     }
   ],
-  "lastRefreshed": "2020-06-24T12:33:10.748Z"
+  "lastRefreshed": "2020-06-25T00:33:30.257Z"
 }
