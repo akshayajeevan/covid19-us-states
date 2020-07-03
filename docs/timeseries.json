@@ -17785,82 +17785,82 @@
     {
       "date": "2020-6-16",
       "confirmed": 105885,
-      "deaths": 7664
+      "deaths": 7665
     },
     {
       "date": "2020-6-17",
       "confirmed": 106151,
-      "deaths": 7733
+      "deaths": 7734
     },
     {
       "date": "2020-6-18",
       "confirmed": 106422,
-      "deaths": 7769
+      "deaths": 7770
     },
     {
       "date": "2020-6-19",
       "confirmed": 106650,
-      "deaths": 7799
+      "deaths": 7800
     },
     {
       "date": "2020-6-20",
       "confirmed": 106936,
-      "deaths": 7827
+      "deaths": 7828
     },
     {
       "date": "2020-6-21",
       "confirmed": 107061,
-      "deaths": 7857
+      "deaths": 7858
     },
     {
       "date": "2020-6-22",
       "confirmed": 107210,
-      "deaths": 7873
+      "deaths": 7874
     },
     {
       "date": "2020-6-23",
       "confirmed": 107439,
-      "deaths": 7889
+      "deaths": 7890
     },
     {
       "date": "2020-6-24",
       "confirmed": 107611,
-      "deaths": 7937
+      "deaths": 7938
     },
     {
       "date": "2020-6-25",
       "confirmed": 107837,
-      "deaths": 7962
+      "deaths": 7963
     },
     {
       "date": "2020-6-26",
       "confirmed": 108070,
-      "deaths": 8012
+      "deaths": 8013
     },
     {
       "date": "2020-6-27",
       "confirmed": 108443,
-      "deaths": 8040
+      "deaths": 8041
     },
     {
       "date": "2020-6-28",
       "confirmed": 108667,
-      "deaths": 8059
+      "deaths": 8060
     },
     {
       "date": "2020-6-29",
       "confirmed": 108768,
-      "deaths": 8094
+      "deaths": 8095
     },
     {
       "date": "2020-6-30",
       "confirmed": 108882,
-      "deaths": 8053
+      "deaths": 8054
     },
     {
       "date": "2020-7-1",
-      "confirmed": 108882,
-      "deaths": 8053
+      "confirmed": 109143,
+      "deaths": 8081
     }
   ],
   "Michigan": [
@@ -21018,97 +21018,97 @@
     {
       "date": "2020-6-13",
       "confirmed": 16232,
-      "deaths": 885
+      "deaths": 887
     },
     {
       "date": "2020-6-14",
       "confirmed": 16262,
-      "deaths": 885
+      "deaths": 889
     },
     {
       "date": "2020-6-15",
       "confirmed": 16611,
-      "deaths": 887
+      "deaths": 891
     },
     {
       "date": "2020-6-16",
       "confirmed": 16857,
-      "deaths": 891
+      "deaths": 895
     },
     {
       "date": "2020-6-17",
       "confirmed": 17069,
-      "deaths": 909
+      "deaths": 914
     },
     {
       "date": "2020-6-18",
       "confirmed": 17371,
-      "deaths": 945
+      "deaths": 950
     },
     {
       "date": "2020-6-19",
       "confirmed": 17667,
-      "deaths": 958
+      "deaths": 963
     },
     {
       "date": "2020-6-20",
       "confirmed": 18056,
-      "deaths": 965
+      "deaths": 973
     },
     {
       "date": "2020-6-21",
       "confirmed": 18459,
-      "deaths": 965
+      "deaths": 975
     },
     {
       "date": "2020-6-22",
       "confirmed": 18592,
-      "deaths": 970
+      "deaths": 980
     },
     {
       "date": "2020-6-23",
       "confirmed": 19005,
-      "deaths": 976
+      "deaths": 988
     },
     {
       "date": "2020-6-24",
       "confirmed": 19123,
-      "deaths": 985
+      "deaths": 998
     },
     {
       "date": "2020-6-25",
       "confirmed": 19637,
-      "deaths": 987
+      "deaths": 1000
     },
     {
       "date": "2020-6-26",
       "confirmed": 20216,
-      "deaths": 997
+      "deaths": 1009
     },
     {
       "date": "2020-6-27",
       "confirmed": 20572,
-      "deaths": 1004
+      "deaths": 1014
     },
     {
       "date": "2020-6-28",
-      "confirmed": 20689,
-      "deaths": 1004
+      "confirmed": 20796,
+      "deaths": 1014
     },
     {
       "date": "2020-6-29",
-      "confirmed": 20825,
-      "deaths": 1004
+      "confirmed": 21315,
+      "deaths": 1016
     },
     {
       "date": "2020-6-30",
-      "confirmed": 21001,
-      "deaths": 1005
+      "confirmed": 21812,
+      "deaths": 1019
     },
     {
       "date": "2020-7-1",
-      "confirmed": 21035,
-      "deaths": 1018
+      "confirmed": 22104,
+      "deaths": 1033
     }
   ],
   "Montana": [
@@ -41411,5 +41411,5 @@
       "deaths": 20
     }
   ],
-  "lastRefreshed": "2020-07-02T12:33:14.216Z"
+  "lastRefreshed": "2020-07-03T00:41:51.696Z"
 }
