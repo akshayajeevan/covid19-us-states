@@ -17499,22 +17499,22 @@
     {
       "date": "2020-7-20",
       "confirmed": 94892,
-      "deaths": 3462
+      "deaths": 3574
     },
     {
       "date": "2020-7-21",
       "confirmed": 96583,
-      "deaths": 3498
+      "deaths": 3610
     },
     {
       "date": "2020-7-22",
       "confirmed": 99354,
-      "deaths": 3558
+      "deaths": 3670
     },
     {
       "date": "2020-7-23",
       "confirmed": 101650,
-      "deaths": 3574
+      "deaths": 3686
     }
   ],
   "Maine": [
@@ -35948,12 +35948,12 @@
     },
     {
       "date": "2020-7-22",
-      "confirmed": 108187,
+      "confirmed": 108223,
       "deaths": 7077
     },
     {
       "date": "2020-7-23",
-      "confirmed": 109037,
+      "confirmed": 109105,
       "deaths": 7093
     }
   ],
@@ -47021,5 +47021,5 @@
       "deaths": 25
     }
   ],
-  "lastRefreshed": "2020-07-25T00:45:58.774Z"
+  "lastRefreshed": "2020-07-25T02:33:19.123Z"
 }
