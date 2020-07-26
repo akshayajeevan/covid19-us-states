@@ -40769,22 +40769,22 @@
     {
       "date": "2020-7-21",
       "confirmed": 351071,
-      "deaths": 4199
+      "deaths": 4213
     },
     {
       "date": "2020-7-22",
       "confirmed": 363615,
-      "deaths": 4439
+      "deaths": 4453
     },
     {
       "date": "2020-7-23",
       "confirmed": 373037,
-      "deaths": 4622
+      "deaths": 4636
     },
     {
       "date": "2020-7-24",
       "confirmed": 380364,
-      "deaths": 4790
+      "deaths": 4804
     }
   ],
   "Utah": [
@@ -47276,5 +47276,5 @@
       "deaths": 25
     }
   ],
-  "lastRefreshed": "2020-07-26T00:47:47.469Z"
+  "lastRefreshed": "2020-07-26T02:33:14.436Z"
 }
