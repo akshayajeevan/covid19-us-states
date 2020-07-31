@@ -41879,12 +41879,12 @@
     {
       "date": "2020-7-28",
       "confirmed": 408493,
-      "deaths": 5913
+      "deaths": 5977
     },
     {
       "date": "2020-7-29",
       "confirmed": 418995,
-      "deaths": 6193
+      "deaths": 6302
     }
   ],
   "Utah": [
@@ -48551,5 +48551,5 @@
       "deaths": 26
     }
   ],
-  "lastRefreshed": "2020-07-31T00:48:27.852Z"
+  "lastRefreshed": "2020-07-31T02:33:37.294Z"
 }
