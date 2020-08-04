@@ -8773,18 +8773,18 @@
     },
     {
       "date": "2020-7-31",
-      "confirmed": 12057,
-      "deaths": 584
+      "confirmed": 12126,
+      "deaths": 585
     },
     {
       "date": "2020-8-1",
-      "confirmed": 12057,
-      "deaths": 584
+      "confirmed": 12205,
+      "deaths": 585
     },
     {
       "date": "2020-8-2",
-      "confirmed": 12057,
-      "deaths": 584
+      "confirmed": 12274,
+      "deaths": 586
     },
     {
       "date": "2020-8-3",
@@ -49826,5 +49826,5 @@
       "deaths": 27
     }
   ],
-  "lastRefreshed": "2020-08-04T06:33:12.864Z"
+  "lastRefreshed": "2020-08-04T12:33:24.610Z"
 }
