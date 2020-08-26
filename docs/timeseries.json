@@ -9728,7 +9728,7 @@
     },
     {
       "date": "2020-8-23",
-      "confirmed": 13534,
+      "confirmed": 13590,
       "deaths": 604
     },
     {
@@ -47588,23 +47588,23 @@
     },
     {
       "date": "2020-8-21",
-      "confirmed": 585632,
-      "deaths": 11418
+      "confirmed": 585562,
+      "deaths": 11415
     },
     {
       "date": "2020-8-22",
-      "confirmed": 589349,
-      "deaths": 11581
+      "confirmed": 589279,
+      "deaths": 11578
     },
     {
       "date": "2020-8-23",
-      "confirmed": 594173,
-      "deaths": 11699
+      "confirmed": 594035,
+      "deaths": 11696
     },
     {
       "date": "2020-8-24",
-      "confirmed": 598450,
-      "deaths": 11749
+      "confirmed": 598262,
+      "deaths": 11742
     }
   ],
   "Utah": [
@@ -55181,5 +55181,5 @@
       "deaths": 37
     }
   ],
-  "lastRefreshed": "2020-08-25T12:33:04.755Z"
+  "lastRefreshed": "2020-08-26T00:55:07.167Z"
 }
