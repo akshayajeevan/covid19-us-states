@@ -1187,8 +1187,8 @@
     },
     {
       "date": "2020-9-15",
-      "confirmed": 153551,
-      "deaths": 2521
+      "confirmed": 141087,
+      "deaths": 2392
     }
   ],
   "Alaska": [
@@ -46473,7 +46473,7 @@
     },
     {
       "date": "2020-9-13",
-      "confirmed": 148635,
+      "confirmed": 149184,
       "deaths": 7829
     },
     {
@@ -60791,5 +60791,5 @@
       "deaths": 42
     }
   ],
-  "lastRefreshed": "2020-09-16T12:35:19.943Z"
+  "lastRefreshed": "2020-09-17T01:03:29.670Z"
 }
