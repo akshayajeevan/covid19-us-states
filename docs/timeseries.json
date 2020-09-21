@@ -46236,8 +46236,8 @@
     },
     {
       "date": "2020-9-19",
-      "confirmed": 30342,
-      "deaths": 521
+      "confirmed": 30599,
+      "deaths": 525
     },
     {
       "date": "2020-9-20",
@@ -60840,12 +60840,12 @@
     },
     {
       "date": "2020-9-19",
-      "confirmed": 97279,
-      "deaths": 1238
+      "confirmed": 105557,
+      "deaths": 1241
     },
     {
       "date": "2020-9-20",
-      "confirmed": 101227,
+      "confirmed": 107292,
       "deaths": 1242
     }
   ],
@@ -62066,5 +62066,5 @@
       "deaths": 49
     }
   ],
-  "lastRefreshed": "2020-09-21T06:33:21.028Z"
+  "lastRefreshed": "2020-09-21T12:35:50.146Z"
 }
