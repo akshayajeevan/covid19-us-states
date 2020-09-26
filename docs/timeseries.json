@@ -61800,18 +61800,18 @@
     },
     {
       "date": "2020-9-15",
-      "confirmed": 91062,
+      "confirmed": 91304,
       "deaths": 1220
     },
     {
       "date": "2020-9-16",
-      "confirmed": 92159,
-      "deaths": 1227
+      "confirmed": 92712,
+      "deaths": 1228
     },
     {
       "date": "2020-9-17",
-      "confirmed": 93819,
-      "deaths": 1230
+      "confirmed": 94746,
+      "deaths": 1231
     },
     {
       "date": "2020-9-18",
@@ -63086,5 +63086,5 @@
       "deaths": 50
     }
   ],
-  "lastRefreshed": "2020-09-25T12:47:36.629Z"
+  "lastRefreshed": "2020-09-26T01:05:48.013Z"
 }
