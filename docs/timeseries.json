@@ -11523,18 +11523,18 @@
     },
     {
       "date": "2020-10-1",
-      "confirmed": 15326,
-      "deaths": 627
+      "confirmed": 15358,
+      "deaths": 628
     },
     {
       "date": "2020-10-2",
-      "confirmed": 15326,
-      "deaths": 627
+      "confirmed": 15423,
+      "deaths": 629
     },
     {
       "date": "2020-10-3",
-      "confirmed": 15326,
-      "deaths": 627
+      "confirmed": 15473,
+      "deaths": 629
     }
   ],
   "Florida": [
@@ -65381,5 +65381,5 @@
       "deaths": 53
     }
   ],
-  "lastRefreshed": "2020-10-04T12:37:41.125Z"
+  "lastRefreshed": "2020-10-05T01:11:17.856Z"
 }
