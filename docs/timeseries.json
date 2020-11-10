@@ -16052,32 +16052,32 @@
     },
     {
       "date": "2020-11-3",
-      "confirmed": 364589,
+      "confirmed": 394526,
       "deaths": 8029
     },
     {
       "date": "2020-11-4",
-      "confirmed": 366452,
+      "confirmed": 397137,
       "deaths": 8072
     },
     {
       "date": "2020-11-5",
-      "confirmed": 368368,
+      "confirmed": 415694,
       "deaths": 8126
     },
     {
       "date": "2020-11-6",
-      "confirmed": 370106,
+      "confirmed": 402427,
       "deaths": 8156
     },
     {
       "date": "2020-11-7",
-      "confirmed": 371825,
+      "confirmed": 405037,
       "deaths": 8193
     },
     {
       "date": "2020-11-8",
-      "confirmed": 373078,
+      "confirmed": 406061,
       "deaths": 8194
     }
   ],
@@ -74561,5 +74561,5 @@
       "deaths": 114
     }
   ],
-  "lastRefreshed": "2020-11-09T12:39:12.414Z"
+  "lastRefreshed": "2020-11-10T01:03:22.801Z"
 }
