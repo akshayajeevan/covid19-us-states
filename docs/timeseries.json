@@ -16243,7 +16243,7 @@
     {
       "date": "2020-11-11",
       "confirmed": 413894,
-      "deaths": 8806
+      "deaths": 8333
     }
   ],
   "Hawaii": [
@@ -48737,7 +48737,7 @@
     {
       "date": "2020-11-11",
       "confirmed": 540965,
-      "deaths": 33848
+      "deaths": 33961
     }
   ],
   "North Carolina": [
@@ -73846,7 +73846,7 @@
     {
       "date": "2020-11-11",
       "confirmed": 301349,
-      "deaths": 2554
+      "deaths": 2457
     }
   ],
   "Wyoming": [
@@ -75326,5 +75326,5 @@
       "deaths": 127
     }
   ],
-  "lastRefreshed": "2020-11-12T12:34:46.393Z"
+  "lastRefreshed": "2020-11-13T00:56:47.049Z"
 }
