@@ -48165,17 +48165,17 @@
     },
     {
       "date": "2020-11-29",
-      "confirmed": 20516,
+      "confirmed": 20480,
       "deaths": 526
     },
     {
       "date": "2020-11-30",
-      "confirmed": 21030,
+      "confirmed": 20994,
       "deaths": 526
     },
     {
       "date": "2020-12-1",
-      "confirmed": 21802,
+      "confirmed": 21766,
       "deaths": 528
     },
     {
@@ -48190,17 +48190,17 @@
     },
     {
       "date": "2020-12-4",
-      "confirmed": 23775,
+      "confirmed": 23690,
       "deaths": 552
     },
     {
       "date": "2020-12-5",
-      "confirmed": 24232,
+      "confirmed": 24138,
       "deaths": 559
     },
     {
       "date": "2020-12-6",
-      "confirmed": 24888,
+      "confirmed": 24771,
       "deaths": 564
     },
     {
@@ -81956,5 +81956,5 @@
       "deaths": 289
     }
   ],
-  "lastRefreshed": "2020-12-08T12:47:18.228Z"
+  "lastRefreshed": "2020-12-09T01:18:57.593Z"
 }
