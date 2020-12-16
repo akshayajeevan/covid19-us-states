@@ -54071,118 +54071,118 @@
     },
     {
       "date": "2020-11-22",
-      "confirmed": 596214,
+      "confirmed": 596045,
       "deaths": 34319
     },
     {
       "date": "2020-11-23",
-      "confirmed": 602120,
-      "deaths": 34339
+      "confirmed": 601990,
+      "deaths": 34345
     },
     {
       "date": "2020-11-24",
-      "confirmed": 607001,
-      "deaths": 34362
+      "confirmed": 606955,
+      "deaths": 34368
     },
     {
       "date": "2020-11-25",
-      "confirmed": 613266,
-      "deaths": 34388
+      "confirmed": 613342,
+      "deaths": 34396
     },
     {
       "date": "2020-11-26",
-      "confirmed": 620199,
-      "deaths": 34443
+      "confirmed": 620098,
+      "deaths": 34451
     },
     {
       "date": "2020-11-27",
-      "confirmed": 628375,
-      "deaths": 34477
+      "confirmed": 628280,
+      "deaths": 34489
     },
     {
       "date": "2020-11-28",
-      "confirmed": 634438,
-      "deaths": 34514
+      "confirmed": 634248,
+      "deaths": 34526
     },
     {
       "date": "2020-11-29",
-      "confirmed": 641161,
-      "deaths": 34561
+      "confirmed": 640820,
+      "deaths": 34573
     },
     {
       "date": "2020-11-30",
-      "confirmed": 647980,
-      "deaths": 34605
+      "confirmed": 648043,
+      "deaths": 34625
     },
     {
       "date": "2020-12-1",
-      "confirmed": 655265,
-      "deaths": 34662
+      "confirmed": 655328,
+      "deaths": 34686
     },
     {
       "date": "2020-12-2",
-      "confirmed": 664238,
-      "deaths": 34718
+      "confirmed": 664304,
+      "deaths": 34745
     },
     {
       "date": "2020-12-3",
-      "confirmed": 674093,
-      "deaths": 34775
+      "confirmed": 674175,
+      "deaths": 34812
     },
     {
       "date": "2020-12-4",
-      "confirmed": 685364,
-      "deaths": 34830
+      "confirmed": 685488,
+      "deaths": 34869
     },
     {
       "date": "2020-12-5",
-      "confirmed": 696125,
-      "deaths": 34900
+      "confirmed": 695947,
+      "deaths": 34939
     },
     {
       "date": "2020-12-6",
-      "confirmed": 705827,
-      "deaths": 34958
+      "confirmed": 705448,
+      "deaths": 34997
     },
     {
       "date": "2020-12-7",
-      "confirmed": 713129,
-      "deaths": 35034
+      "confirmed": 713134,
+      "deaths": 35080
     },
     {
       "date": "2020-12-8",
-      "confirmed": 722464,
-      "deaths": 35118
+      "confirmed": 722494,
+      "deaths": 35170
     },
     {
       "date": "2020-12-9",
-      "confirmed": 733064,
-      "deaths": 35183
+      "confirmed": 733086,
+      "deaths": 35236
     },
     {
       "date": "2020-12-10",
-      "confirmed": 743242,
-      "deaths": 35266
+      "confirmed": 743290,
+      "deaths": 35323
     },
     {
       "date": "2020-12-11",
-      "confirmed": 753837,
-      "deaths": 35357
+      "confirmed": 753834,
+      "deaths": 35420
     },
     {
       "date": "2020-12-12",
-      "confirmed": 764966,
-      "deaths": 35441
+      "confirmed": 764779,
+      "deaths": 35504
     },
     {
       "date": "2020-12-13",
-      "confirmed": 775160,
-      "deaths": 35557
+      "confirmed": 774767,
+      "deaths": 35620
     },
     {
       "date": "2020-12-14",
-      "confirmed": 784204,
-      "deaths": 35427
+      "confirmed": 784137,
+      "deaths": 35702
     }
   ],
   "North Carolina": [
@@ -72243,7 +72243,7 @@
     },
     {
       "date": "2020-12-14",
-      "confirmed": 1492917,
+      "confirmed": 1491942,
       "deaths": 24440
     }
   ],
@@ -83741,5 +83741,5 @@
       "deaths": 321
     }
   ],
-  "lastRefreshed": "2020-12-15T12:51:20.803Z"
+  "lastRefreshed": "2020-12-16T01:28:36.187Z"
 }
