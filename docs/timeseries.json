@@ -55312,17 +55312,17 @@
     {
       "date": "2020-12-16",
       "confirmed": 804555,
-      "deaths": 35927
+      "deaths": 35941
     },
     {
       "date": "2020-12-17",
       "confirmed": 815469,
-      "deaths": 36052
+      "deaths": 36067
     },
     {
       "date": "2020-12-18",
       "confirmed": 828166,
-      "deaths": 36177
+      "deaths": 36199
     },
     {
       "date": "2020-12-19",
@@ -85526,5 +85526,5 @@
       "deaths": 351
     }
   ],
-  "lastRefreshed": "2020-12-22T13:00:52.857Z"
+  "lastRefreshed": "2020-12-23T01:36:55.591Z"
 }
