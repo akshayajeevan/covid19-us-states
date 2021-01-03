@@ -1,18 +1,20 @@
 on:
   schedule:
-    - cron: "30 0,2,6,12 * * *"
+    - cron: "30 2,6,9 * * *"
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
-  extract_job:
+  update_numbers:
+    name: Updates the counts from source
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout my repo
         uses: actions/checkout@v2
         with:
           path: main
-      - name: Checkout data repo
+          fetch-depth: 0
+      - name: Checkout source data repo
         uses: actions/checkout@v2
         with:
           repository: CSSEGISandData/COVID-19
@@ -27,10 +29,9 @@ jobs:
       - name: Commit files
         run: |
           cd main
-          git config --local user.email "action@github.com"
+          git config --local user.email "13479752+akshayajeevan@users.noreply.github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git diff-index --quiet HEAD || git commit -m "Update json" -a
+          git commit -m "Update JSON" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
