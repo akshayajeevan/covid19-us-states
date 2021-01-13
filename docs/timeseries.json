@@ -8905,8 +8905,8 @@
     },
     {
       "date": "2020-1-11",
-      "confirmed": 2753739,
-      "deaths": 30260
+      "confirmed": 2758021,
+      "deaths": 30480
     }
   ],
   "Colorado": [
@@ -39199,8 +39199,8 @@
     },
     {
       "date": "2020-1-11",
-      "confirmed": 432803,
-      "deaths": 13151
+      "confirmed": 437042,
+      "deaths": 13206
     }
   ],
   "Michigan": [
@@ -62311,62 +62311,62 @@
     {
       "date": "2020-12-31",
       "confirmed": 92495,
-      "deaths": 1292
+      "deaths": 1299
     },
     {
       "date": "2020-1-1",
       "confirmed": 92770,
-      "deaths": 1309
+      "deaths": 1316
     },
     {
       "date": "2020-1-2",
       "confirmed": 92891,
-      "deaths": 1310
+      "deaths": 1317
     },
     {
       "date": "2020-1-3",
       "confirmed": 93041,
-      "deaths": 1310
+      "deaths": 1317
     },
     {
       "date": "2020-1-4",
       "confirmed": 93240,
-      "deaths": 1312
+      "deaths": 1319
     },
     {
       "date": "2020-1-5",
       "confirmed": 93494,
-      "deaths": 1329
+      "deaths": 1336
     },
     {
       "date": "2020-1-6",
       "confirmed": 93832,
-      "deaths": 1334
+      "deaths": 1341
     },
     {
       "date": "2020-1-7",
       "confirmed": 94156,
-      "deaths": 1341
+      "deaths": 1348
     },
     {
       "date": "2020-1-8",
       "confirmed": 94438,
-      "deaths": 1352
+      "deaths": 1359
     },
     {
       "date": "2020-1-9",
       "confirmed": 94558,
-      "deaths": 1352
+      "deaths": 1360
     },
     {
       "date": "2020-1-10",
       "confirmed": 94716,
-      "deaths": 1352
+      "deaths": 1360
     },
     {
       "date": "2020-1-11",
       "confirmed": 94830,
-      "deaths": 1352
+      "deaths": 1360
     }
   ],
   "Ohio": [
@@ -90881,5 +90881,5 @@
       "deaths": 489
     }
   ],
-  "lastRefreshed": "2021-01-12T10:07:08.193Z"
+  "lastRefreshed": "2021-01-13T03:26:13.790Z"
 }
