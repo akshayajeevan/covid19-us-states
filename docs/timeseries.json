@@ -8930,8 +8930,8 @@
     },
     {
       "date": "2020-1-12",
-      "confirmed": 2795978,
-      "deaths": 31031
+      "confirmed": 2804663,
+      "deaths": 31157
     }
   ],
   "Colorado": [
@@ -53605,8 +53605,8 @@
     },
     {
       "date": "2020-1-12",
-      "confirmed": 52307,
-      "deaths": 869
+      "confirmed": 53149,
+      "deaths": 878
     }
   ],
   "New Jersey": [
@@ -91136,5 +91136,5 @@
       "deaths": 522
     }
   ],
-  "lastRefreshed": "2021-01-13T10:15:37.701Z"
+  "lastRefreshed": "2021-01-14T03:35:22.778Z"
 }
