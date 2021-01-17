@@ -9005,8 +9005,8 @@
     },
     {
       "date": "2020-1-15",
-      "confirmed": 2916309,
-      "deaths": 32851
+      "confirmed": 2922690,
+      "deaths": 33002
     }
   ],
   "Colorado": [
@@ -79283,8 +79283,8 @@
     },
     {
       "date": "2020-1-15",
-      "confirmed": 2069286,
-      "deaths": 31693
+      "confirmed": 2094921,
+      "deaths": 32086
     }
   ],
   "Utah": [
@@ -91901,5 +91901,5 @@
       "deaths": 522
     }
   ],
-  "lastRefreshed": "2021-01-16T10:15:52.979Z"
+  "lastRefreshed": "2021-01-17T03:34:31.395Z"
 }
