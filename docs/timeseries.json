@@ -69231,8 +69231,8 @@
     },
     {
       "date": "2020-1-19",
-      "confirmed": 133851,
-      "deaths": 1803
+      "confirmed": 134468,
+      "deaths": 1808
     }
   ],
   "Pennsylvania": [
@@ -87451,8 +87451,8 @@
     },
     {
       "date": "2020-1-19",
-      "confirmed": 289939,
-      "deaths": 3903
+      "confirmed": 291989,
+      "deaths": 3940
     }
   ],
   "West Virginia": [
@@ -92921,5 +92921,5 @@
       "deaths": 550
     }
   ],
-  "lastRefreshed": "2021-01-20T10:19:42.035Z"
+  "lastRefreshed": "2021-01-21T03:37:47.017Z"
 }
