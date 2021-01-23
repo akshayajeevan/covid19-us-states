@@ -7350,8 +7350,8 @@
   "California": [
     {
       "date": "2020-1-22",
-      "confirmed": 3121386,
-      "deaths": 36259
+      "confirmed": 3124420,
+      "deaths": 36362
     },
     {
       "date": "2020-1-23",
@@ -9180,8 +9180,8 @@
     },
     {
       "date": "2020-1-22",
-      "confirmed": 3121386,
-      "deaths": 36259
+      "confirmed": 3124420,
+      "deaths": 36362
     }
   ],
   "Colorado": [
@@ -93686,5 +93686,5 @@
       "deaths": 571
     }
   ],
-  "lastRefreshed": "2021-01-23T07:14:02.251Z"
+  "lastRefreshed": "2021-01-23T10:16:38.182Z"
 }
