@@ -7625,8 +7625,8 @@
     },
     {
       "date": "2020-2-2",
-      "confirmed": 3352026,
-      "deaths": 41761
+      "confirmed": 3355784,
+      "deaths": 41902
     },
     {
       "date": "2020-2-3",
@@ -9455,8 +9455,8 @@
     },
     {
       "date": "2020-2-2",
-      "confirmed": 3352026,
-      "deaths": 41761
+      "confirmed": 3355784,
+      "deaths": 41902
     }
   ],
   "Colorado": [
@@ -96491,5 +96491,5 @@
       "deaths": 624
     }
   ],
-  "lastRefreshed": "2021-02-03T06:44:02.003Z"
+  "lastRefreshed": "2021-02-03T09:39:49.330Z"
 }
