@@ -70441,8 +70441,8 @@
     },
     {
       "date": "2020-2-4",
-      "confirmed": 144605,
-      "deaths": 1991
+      "confirmed": 145320,
+      "deaths": 1998
     },
     {
       "date": "2020-2-5",
@@ -72271,8 +72271,8 @@
     },
     {
       "date": "2020-2-4",
-      "confirmed": 144605,
-      "deaths": 1991
+      "confirmed": 145320,
+      "deaths": 1998
     }
   ],
   "Pennsylvania": [
@@ -97001,5 +97001,5 @@
       "deaths": 624
     }
   ],
-  "lastRefreshed": "2021-02-05T09:36:49.823Z"
+  "lastRefreshed": "2021-02-06T02:37:36.799Z"
 }
