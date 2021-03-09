@@ -8455,8 +8455,8 @@
     },
     {
       "date": "2020-3-7",
-      "confirmed": 3599770,
-      "deaths": 54226
+      "confirmed": 3599331,
+      "deaths": 54221
     },
     {
       "date": "2020-3-8",
@@ -10280,8 +10280,8 @@
     },
     {
       "date": "2020-3-7",
-      "confirmed": 3599770,
-      "deaths": 54226
+      "confirmed": 3599331,
+      "deaths": 54221
     }
   ],
   "Colorado": [
@@ -53709,7 +53709,7 @@
     },
     {
       "date": "2020-3-7",
-      "confirmed": 106438,
+      "confirmed": 100914,
       "deaths": 1381
     },
     {
@@ -55534,7 +55534,7 @@
     },
     {
       "date": "2020-3-7",
-      "confirmed": 106438,
+      "confirmed": 100914,
       "deaths": 1381
     }
   ],
@@ -90735,8 +90735,8 @@
     },
     {
       "date": "2020-3-7",
-      "confirmed": 374288,
-      "deaths": 1974
+      "confirmed": 374851,
+      "deaths": 1976
     },
     {
       "date": "2020-3-8",
@@ -92560,8 +92560,8 @@
     },
     {
       "date": "2020-3-7",
-      "confirmed": 374288,
-      "deaths": 1974
+      "confirmed": 374851,
+      "deaths": 1976
     }
   ],
   "Vermont": [
@@ -104906,5 +104906,5 @@
       "deaths": 682
     }
   ],
-  "lastRefreshed": "2021-03-08T09:44:10.275Z"
+  "lastRefreshed": "2021-03-09T02:48:38.253Z"
 }
