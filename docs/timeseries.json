@@ -81508,13 +81508,13 @@
     },
     {
       "date": "2020-3-22",
-      "confirmed": 990659,
-      "deaths": 24802
+      "confirmed": 991598,
+      "deaths": 24778
     },
     {
       "date": "2020-3-23",
-      "confirmed": 993759,
-      "deaths": 24839
+      "confirmed": 995392,
+      "deaths": 24823
     },
     {
       "date": "2020-3-24",
@@ -83333,13 +83333,13 @@
     },
     {
       "date": "2020-3-22",
-      "confirmed": 990659,
-      "deaths": 24802
+      "confirmed": 991598,
+      "deaths": 24778
     },
     {
       "date": "2020-3-23",
-      "confirmed": 993759,
-      "deaths": 24839
+      "confirmed": 995392,
+      "deaths": 24823
     }
   ],
   "Rhode Island": [
@@ -108986,5 +108986,5 @@
       "deaths": 695
     }
   ],
-  "lastRefreshed": "2021-03-24T09:56:09.643Z"
+  "lastRefreshed": "2021-03-25T03:13:53.706Z"
 }
