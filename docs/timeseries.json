@@ -9170,13 +9170,13 @@
     },
     {
       "date": "2020-4-3",
-      "confirmed": 3687295,
-      "deaths": 59879
+      "confirmed": 3688115,
+      "deaths": 59915
     },
     {
       "date": "2020-4-4",
-      "confirmed": 3688116,
-      "deaths": 59903
+      "confirmed": 3689586,
+      "deaths": 60000
     },
     {
       "date": "2020-4-5",
@@ -10995,13 +10995,13 @@
     },
     {
       "date": "2020-4-3",
-      "confirmed": 3687295,
-      "deaths": 59879
+      "confirmed": 3688115,
+      "deaths": 59915
     },
     {
       "date": "2020-4-4",
-      "confirmed": 3688116,
-      "deaths": 59903
+      "confirmed": 3689586,
+      "deaths": 60000
     },
     {
       "date": "2020-4-5",
@@ -112301,5 +112301,5 @@
       "deaths": 700
     }
   ],
-  "lastRefreshed": "2021-04-06T09:44:49.026Z"
+  "lastRefreshed": "2021-04-07T02:59:28.233Z"
 }
