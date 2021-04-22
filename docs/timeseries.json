@@ -50541,8 +50541,8 @@
     },
     {
       "date": "2020-4-20",
-      "confirmed": 916195,
-      "deaths": 20633
+      "confirmed": 922796,
+      "deaths": 20723
     },
     {
       "date": "2020-4-21",
@@ -52366,8 +52366,8 @@
     },
     {
       "date": "2020-4-20",
-      "confirmed": 916195,
-      "deaths": 20633
+      "confirmed": 922796,
+      "deaths": 20723
     }
   ],
   "Minnesota": [
@@ -116126,5 +116126,5 @@
       "deaths": 707
     }
   ],
-  "lastRefreshed": "2021-04-21T09:43:17.903Z"
+  "lastRefreshed": "2021-04-22T02:57:18.723Z"
 }
