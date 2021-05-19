@@ -51234,8 +51234,8 @@
     },
     {
       "date": "2020-5-17",
-      "confirmed": 814974,
-      "deaths": 23569
+      "confirmed": 790111,
+      "deaths": 23572
     },
     {
       "date": "2020-5-18",
@@ -53059,8 +53059,8 @@
     },
     {
       "date": "2020-5-17",
-      "confirmed": 814974,
-      "deaths": 23569
+      "confirmed": 790111,
+      "deaths": 23572
     }
   ],
   "Michigan": [
@@ -123011,5 +123011,5 @@
       "deaths": 720
     }
   ],
-  "lastRefreshed": "2021-05-18T09:44:39.338Z"
+  "lastRefreshed": "2021-05-19T02:59:54.730Z"
 }
