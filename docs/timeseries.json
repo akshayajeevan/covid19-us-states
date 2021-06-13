@@ -23506,42 +23506,42 @@
     {
       "date": "2020-6-4",
       "confirmed": 2390050,
-      "deaths": 39580
+      "deaths": 39592
     },
     {
       "date": "2020-6-5",
       "confirmed": 2394355,
-      "deaths": 39633
+      "deaths": 39645
     },
     {
       "date": "2020-6-6",
       "confirmed": 2395625,
-      "deaths": 39661
+      "deaths": 39673
     },
     {
       "date": "2020-6-7",
       "confirmed": 2396805,
-      "deaths": 39673
+      "deaths": 39685
     },
     {
       "date": "2020-6-8",
       "confirmed": 2397771,
-      "deaths": 39685
+      "deaths": 39697
     },
     {
       "date": "2020-6-9",
       "confirmed": 2398867,
-      "deaths": 39738
+      "deaths": 39750
     },
     {
       "date": "2020-6-10",
       "confirmed": 2400238,
-      "deaths": 39774
+      "deaths": 39786
     },
     {
       "date": "2020-6-11",
-      "confirmed": 2401936,
-      "deaths": 39821
+      "confirmed": 2413390,
+      "deaths": 40113
     },
     {
       "date": "2020-6-12",
@@ -25331,42 +25331,42 @@
     {
       "date": "2020-6-4",
       "confirmed": 2390050,
-      "deaths": 39580
+      "deaths": 39592
     },
     {
       "date": "2020-6-5",
       "confirmed": 2394355,
-      "deaths": 39633
+      "deaths": 39645
     },
     {
       "date": "2020-6-6",
       "confirmed": 2395625,
-      "deaths": 39661
+      "deaths": 39673
     },
     {
       "date": "2020-6-7",
       "confirmed": 2396805,
-      "deaths": 39673
+      "deaths": 39685
     },
     {
       "date": "2020-6-8",
       "confirmed": 2397771,
-      "deaths": 39685
+      "deaths": 39697
     },
     {
       "date": "2020-6-9",
       "confirmed": 2398867,
-      "deaths": 39738
+      "deaths": 39750
     },
     {
       "date": "2020-6-10",
       "confirmed": 2400238,
-      "deaths": 39774
+      "deaths": 39786
     },
     {
       "date": "2020-6-11",
-      "confirmed": 2401936,
-      "deaths": 39821
+      "confirmed": 2413390,
+      "deaths": 40113
     }
   ],
   "Georgia": [
@@ -129386,5 +129386,5 @@
       "deaths": 743
     }
   ],
-  "lastRefreshed": "2021-06-12T09:39:59.820Z"
+  "lastRefreshed": "2021-06-13T02:54:29.373Z"
 }
