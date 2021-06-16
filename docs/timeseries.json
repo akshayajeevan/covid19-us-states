@@ -10915,12 +10915,12 @@
     },
     {
       "date": "2020-6-11",
-      "confirmed": 3946315,
+      "confirmed": 3946115,
       "deaths": 68094
     },
     {
       "date": "2020-6-12",
-      "confirmed": 3950172,
+      "confirmed": 3949972,
       "deaths": 68157
     },
     {
@@ -12740,12 +12740,12 @@
     },
     {
       "date": "2020-6-11",
-      "confirmed": 3946315,
+      "confirmed": 3946115,
       "deaths": 68094
     },
     {
       "date": "2020-6-12",
-      "confirmed": 3950172,
+      "confirmed": 3949972,
       "deaths": 68157
     },
     {
@@ -21138,8 +21138,8 @@
     },
     {
       "date": "2020-6-14",
-      "confirmed": 58925,
-      "deaths": 1652
+      "confirmed": 58967,
+      "deaths": 1653
     },
     {
       "date": "2020-6-15",
@@ -22963,8 +22963,8 @@
     },
     {
       "date": "2020-6-14",
-      "confirmed": 58925,
-      "deaths": 1652
+      "confirmed": 58967,
+      "deaths": 1653
     }
   ],
   "Florida": [
@@ -130151,5 +130151,5 @@
       "deaths": 743
     }
   ],
-  "lastRefreshed": "2021-06-15T09:40:58.703Z"
+  "lastRefreshed": "2021-06-16T02:54:47.802Z"
 }
