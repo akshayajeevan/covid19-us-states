@@ -11425,8 +11425,8 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 4049881,
-      "deaths": 69602
+      "confirmed": 4049635,
+      "deaths": 69595
     },
     {
       "date": "2020-6-30",
@@ -13250,8 +13250,8 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 4049881,
-      "deaths": 69602
+      "confirmed": 4049635,
+      "deaths": 69595
     },
     {
       "date": "2020-6-30",
@@ -72551,22 +72551,22 @@
     },
     {
       "date": "2020-7-2",
-      "confirmed": 243940,
+      "confirmed": 244134,
       "deaths": 2543
     },
     {
       "date": "2020-7-3",
-      "confirmed": 244148,
+      "confirmed": 244342,
       "deaths": 2545
     },
     {
       "date": "2020-7-4",
-      "confirmed": 244315,
+      "confirmed": 244509,
       "deaths": 2545
     },
     {
       "date": "2020-7-5",
-      "confirmed": 244417,
+      "confirmed": 244611,
       "deaths": 2545
     },
     {
@@ -74376,22 +74376,22 @@
     },
     {
       "date": "2020-7-2",
-      "confirmed": 243940,
+      "confirmed": 244134,
       "deaths": 2543
     },
     {
       "date": "2020-7-3",
-      "confirmed": 244148,
+      "confirmed": 244342,
       "deaths": 2545
     },
     {
       "date": "2020-7-4",
-      "confirmed": 244315,
+      "confirmed": 244509,
       "deaths": 2545
     },
     {
       "date": "2020-7-5",
-      "confirmed": 244417,
+      "confirmed": 244611,
       "deaths": 2545
     }
   ],
@@ -135506,5 +135506,5 @@
       "deaths": 767
     }
   ],
-  "lastRefreshed": "2021-07-06T09:37:36.066Z"
+  "lastRefreshed": "2021-07-07T02:43:44.232Z"
 }
