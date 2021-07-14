@@ -8938,8 +8938,8 @@
     },
     {
       "date": "2020-7-12",
-      "confirmed": 383827,
-      "deaths": 6269
+      "confirmed": 385840,
+      "deaths": 6276
     },
     {
       "date": "2020-7-13",
@@ -10763,8 +10763,8 @@
     },
     {
       "date": "2020-7-12",
-      "confirmed": 383827,
-      "deaths": 6269
+      "confirmed": 385840,
+      "deaths": 6276
     }
   ],
   "California": [
@@ -30474,7 +30474,7 @@
     },
     {
       "date": "2020-7-12",
-      "confirmed": 39701,
+      "confirmed": 39764,
       "deaths": 540
     },
     {
@@ -32299,7 +32299,7 @@
     },
     {
       "date": "2020-7-12",
-      "confirmed": 39701,
+      "confirmed": 39764,
       "deaths": 540
     }
   ],
@@ -135462,7 +135462,7 @@
     },
     {
       "date": "2020-7-12",
-      "confirmed": 64828,
+      "confirmed": 65000,
       "deaths": 772
     },
     {
@@ -137287,9 +137287,9 @@
     },
     {
       "date": "2020-7-12",
-      "confirmed": 64828,
+      "confirmed": 65000,
       "deaths": 772
     }
   ],
-  "lastRefreshed": "2021-07-13T09:38:06.781Z"
+  "lastRefreshed": "2021-07-14T02:42:04.011Z"
 }
