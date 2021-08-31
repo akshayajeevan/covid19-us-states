@@ -6966,8 +6966,8 @@
     },
     {
       "date": "2020-8-29",
-      "confirmed": 1207051,
-      "deaths": 23786
+      "confirmed": 1209141,
+      "deaths": 23794
     },
     {
       "date": "2020-8-30",
@@ -8791,8 +8791,8 @@
     },
     {
       "date": "2020-8-29",
-      "confirmed": 1207051,
-      "deaths": 23786
+      "confirmed": 1209141,
+      "deaths": 23794
     }
   ],
   "Arkansas": [
@@ -149531,5 +149531,5 @@
       "deaths": 872
     }
   ],
-  "lastRefreshed": "2021-08-30T09:34:47.149Z"
+  "lastRefreshed": "2021-08-31T02:41:31.321Z"
 }
