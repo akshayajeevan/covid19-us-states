@@ -13626,12 +13626,12 @@
     {
       "date": "2020-9-29",
       "confirmed": 5528416,
-      "deaths": 84758
+      "deaths": 84757
     },
     {
       "date": "2020-9-30",
-      "confirmed": 5540368,
-      "deaths": 85012
+      "confirmed": 5540902,
+      "deaths": 85021
     },
     {
       "date": "2020-10-1",
@@ -15451,12 +15451,12 @@
     {
       "date": "2020-9-29",
       "confirmed": 5528416,
-      "deaths": 84758
+      "deaths": 84757
     },
     {
       "date": "2020-9-30",
-      "confirmed": 5540368,
-      "deaths": 85012
+      "confirmed": 5540902,
+      "deaths": 85021
     }
   ],
   "Colorado": [
@@ -157691,5 +157691,5 @@
       "deaths": 1046
     }
   ],
-  "lastRefreshed": "2021-10-01T09:34:34.841Z"
+  "lastRefreshed": "2021-10-02T02:44:25.328Z"
 }
