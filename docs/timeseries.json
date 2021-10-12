@@ -51575,17 +51575,17 @@
     {
       "date": "2020-10-8",
       "confirmed": 485282,
-      "deaths": 7233
+      "deaths": 6879
     },
     {
       "date": "2020-10-9",
       "confirmed": 485619,
-      "deaths": 7257
+      "deaths": 6903
     },
     {
       "date": "2020-10-10",
       "confirmed": 485702,
-      "deaths": 7259
+      "deaths": 6905
     },
     {
       "date": "2020-10-11",
@@ -53400,17 +53400,17 @@
     {
       "date": "2020-10-8",
       "confirmed": 485282,
-      "deaths": 7233
+      "deaths": 6879
     },
     {
       "date": "2020-10-9",
       "confirmed": 485619,
-      "deaths": 7257
+      "deaths": 6903
     },
     {
       "date": "2020-10-10",
       "confirmed": 485702,
-      "deaths": 7259
+      "deaths": 6905
     }
   ],
   "Kentucky": [
@@ -160241,5 +160241,5 @@
       "deaths": 1095
     }
   ],
-  "lastRefreshed": "2021-10-11T09:34:50.040Z"
+  "lastRefreshed": "2021-10-12T02:45:14.970Z"
 }
