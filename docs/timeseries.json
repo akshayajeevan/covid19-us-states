@@ -118136,8 +118136,8 @@
     },
     {
       "date": "2020-10-13",
-      "confirmed": 383124,
-      "deaths": 4689
+      "confirmed": 384260,
+      "deaths": 4722
     },
     {
       "date": "2020-10-14",
@@ -119961,8 +119961,8 @@
     },
     {
       "date": "2020-10-13",
-      "confirmed": 383124,
-      "deaths": 4689
+      "confirmed": 384260,
+      "deaths": 4722
     }
   ],
   "Pennsylvania": [
@@ -161006,5 +161006,5 @@
       "deaths": 1137
     }
   ],
-  "lastRefreshed": "2021-10-14T09:34:07.839Z"
+  "lastRefreshed": "2021-10-15T02:44:58.003Z"
 }
