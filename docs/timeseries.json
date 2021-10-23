@@ -26943,8 +26943,8 @@
     },
     {
       "date": "2020-10-21",
-      "confirmed": 79898,
-      "deaths": 1827
+      "confirmed": 79972,
+      "deaths": 1828
     },
     {
       "date": "2020-10-22",
@@ -28768,8 +28768,8 @@
     },
     {
       "date": "2020-10-21",
-      "confirmed": 79898,
-      "deaths": 1827
+      "confirmed": 79972,
+      "deaths": 1828
     }
   ],
   "Florida": [
@@ -163046,5 +163046,5 @@
       "deaths": 1210
     }
   ],
-  "lastRefreshed": "2021-10-22T06:41:51.864Z"
+  "lastRefreshed": "2021-10-23T02:47:29.039Z"
 }
