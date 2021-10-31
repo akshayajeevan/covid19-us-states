@@ -29,7 +29,7 @@ jobs:
       - name: Commit files
         run: |
           cd main
-          git config --local user.email "13479752+akshayajeevan@users.noreply.github.com"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Update JSON" -a
       - name: Push changes
