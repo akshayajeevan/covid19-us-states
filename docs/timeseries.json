@@ -11318,8 +11318,8 @@
     },
     {
       "date": "2020-11-8",
-      "confirmed": 638111,
-      "deaths": 10582
+      "confirmed": 638252,
+      "deaths": 10593
     },
     {
       "date": "2020-11-9",
@@ -13143,8 +13143,8 @@
     },
     {
       "date": "2020-11-8",
-      "confirmed": 638111,
-      "deaths": 10582
+      "confirmed": 638252,
+      "deaths": 10593
     }
   ],
   "California": [
@@ -167636,5 +167636,5 @@
       "deaths": 1357
     }
   ],
-  "lastRefreshed": "2021-11-09T09:36:08.645Z"
+  "lastRefreshed": "2021-11-10T02:46:58.393Z"
 }
